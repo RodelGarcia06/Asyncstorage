@@ -1,0 +1,22 @@
+.table-container {
+    margin: 5px;
+  }
+  
+  table {
+    width: 250%;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid rgb(32, 79, 209);
+  }
+  
+  th {
+    background-color: rgb(0, 247, 255);
+  }
+  
+  tr:hover {
+    background-color: rgb(244, 3, 211);
+  }
